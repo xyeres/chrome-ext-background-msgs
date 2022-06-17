@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Michael Testing",
+  "name": "Best Practices",
   "version": "0.1",
-  "description": "Michael Test Extension",
+  "description": "Chrome Extension Best Practices",
   "action": {
     "default_popup": "index.html"
   },
